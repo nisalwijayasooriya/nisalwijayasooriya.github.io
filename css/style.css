@@ -8614,7 +8614,7 @@ h1, h2, h3, h4, h5,
           .owl-carousel.home-slider .owl-nav .owl-prev:hover span:before, .owl-carousel.home-slider .owl-nav .owl-prev:focus span:before {
             font-size: 20px;
             margin-top: 7px;
-            color: #74c2f0; }
+            color: #b9a2d5; }
       .owl-carousel.home-slider .owl-nav .owl-next {
         top: 0 !important;
         right: 0 !important; }
@@ -8627,7 +8627,7 @@ h1, h2, h3, h4, h5,
           .owl-carousel.home-slider .owl-nav .owl-next:hover span:before, .owl-carousel.home-slider .owl-nav .owl-next:focus span:before {
             font-size: 24px;
             margin-top: 7px;
-            color: #74c2f0; }
+            color: #b9a2d5; }
     .owl-carousel.home-slider .owl-dots {
       position: absolute;
       left: 0;
@@ -8696,9 +8696,9 @@ h1, h2, h3, h4, h5,
     .slider-text .breadcrumbs span a {
       color: rgba(255, 255, 255, 0.8); }
       .slider-text .breadcrumbs span a:hover, .slider-text .breadcrumbs span a:focus {
-        color: #74c2f0; }
+        color: #b9a2d5; }
         .slider-text .breadcrumbs span a:hover i, .slider-text .breadcrumbs span a:focus i {
-          color: #74c2f0; }
+          color: #b9a2d5; }
 
 .slider-text .bread {
   font-weight: 700;
@@ -8712,7 +8712,7 @@ h1, h2, h3, h4, h5,
   background: #191919 !important; }
 
 .bg-primary {
-  background: #74c2f0; }
+  background: #b9a2d5; }
 
 .btn {
   cursor: pointer;
@@ -8734,7 +8734,7 @@ h1, h2, h3, h4, h5,
     border: 1px solid #7145a8 !important;
       color: #fefefe !important;}
     .btn.btn-primary:hover {
-      border: 1px solid #74c2f0 !important;
+      border: 1px solid #b9a2d5 !important;
       background: #74c2f0 !important;
       color: #000000 !important; }
     .btn.btn-primary.btn-outline-primary {
@@ -8743,7 +8743,7 @@ h1, h2, h3, h4, h5,
       color: #74c2f0 !important; }
       .btn.btn-primary.btn-outline-primary:hover {
         border: 2px solid transparent !important;
-        background: #74c2f0 !important;
+        background: #b9a2d5 !important;
         color: #fff !important; }
   .btn.btn-secondary {
     background: #a0f669 !important;
